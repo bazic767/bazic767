@@ -35,3 +35,4 @@ Welcome to Adhitya Bayu's profile! <img src="https://media.giphy.com/media/12ouf
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Flutter%20-%2314354C.svg?logo=flutter&logoColor=white"></a>
