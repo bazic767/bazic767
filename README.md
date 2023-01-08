@@ -17,7 +17,7 @@ Welcome to Adhitya Bayu's profile! <img src="https://media.giphy.com/media/12ouf
 <p align="center"> 
   
   <a href="https://twitter.com/dhitezy">
-    <img alt="Twitter Profile" title="Follow My Twitter" src="https://img.shields.io/twitter/follow/https://twitter.com/dhitezy/followers"/></a>
+    <img alt="Twitter Profile" title="Follow My Twitter" src="https://img.shields.io/twitter/follow"/></a>
   
   <a href="https://github.com/Abinnnn">
     <img alt="Github Profile" title="Follow My Github" src="https://img.shields.io/github/followers/Neeraj2002?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
@@ -30,9 +30,10 @@ Welcome to Adhitya Bayu's profile! <img src="https://media.giphy.com/media/12ouf
 ### 👨‍💻 Programming languages
 
 <p>
+    <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2314354C.svg?logo=flutter&logoColor=blue"></a>
     <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Flutter%20-%2314354C.svg?logo=flutter&logoColor=white"></a>
+    
